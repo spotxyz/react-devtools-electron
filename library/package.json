@@ -1,9 +1,9 @@
 {
-	"name": "react-devtools-electron",
-	"version": "4.7.0",
+	"name": "@spotxyz/react-devtools-electron",
+	"version": "4.22.1",
 	"description": "Add React DevTools to your Electron app",
 	"main": "./dist/index.js",
-	"repository": "https://dimitarnestorov@github.com/dimitarnestorov/react-devtools-electron.git",
+	"repository": "https://github.com/spotxyz/react-devtools-electron.git",
 	"author": "Dimitar Nestorov <opensource@dimitarnestorov.com> (https://dimitarnestorov.com)",
 	"license": "MIT",
 	"scripts": {
